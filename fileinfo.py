@@ -42,3 +42,5 @@ print("last accessed =", file_info['f_la'])
 print("creation time =", file_info['f_ct'])
 print("Total number of lines are =", file_info['no_of_lines'])
 print("Total number of characters are =", file_info['t_char'])
+
+print("\nhello world")
