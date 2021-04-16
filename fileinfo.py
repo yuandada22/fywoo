@@ -35,10 +35,3 @@ file_info = {
     't_char': t_char
 }
 
-print("\nfile name =", file_info['fname'])
-print("file size =", file_info['fsize'], "bytes")
-print("last modified =", file_info['f_lm'])
-print("last accessed =", file_info['f_la'])
-print("creation time =", file_info['f_ct'])
-print("Total number of lines are =", file_info['no_of_lines'])
-print("Total number of characters are =", file_info['t_char'])
