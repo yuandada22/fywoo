@@ -46,3 +46,7 @@ print("Total number of characters are =", file_info['t_char'])
 print("\nhello world")
 print("\nabcdefg")
 print("\nplay")
+
+#第四次commit
+print("\nhello xiaowang!")
+ 
