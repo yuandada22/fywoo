@@ -35,6 +35,10 @@ file_info = {
     't_char': t_char
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 04b4bce354c33ef6cbe2657270973f225fd5496b
 print("\nfile name =", file_info['fname'])
 print("file size =", file_info['fsize'], "bytes")
 print("last modified =", file_info['f_lm'])
@@ -42,3 +46,7 @@ print("last accessed =", file_info['f_la'])
 print("creation time =", file_info['f_ct'])
 print("Total number of lines are =", file_info['no_of_lines'])
 print("Total number of characters are =", file_info['t_char'])
+
+print("\nhello world")
+print("\nabcdefg")
+print("\nplay")
