@@ -35,10 +35,6 @@ file_info = {
     't_char': t_char
 }
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 04b4bce354c33ef6cbe2657270973f225fd5496b
 print("\nfile name =", file_info['fname'])
 print("file size =", file_info['fsize'], "bytes")
 print("last modified =", file_info['f_lm'])
